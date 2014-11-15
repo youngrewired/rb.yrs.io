@@ -12,9 +12,10 @@ You will only require [Git](http://git-scm.com/downloads) to contribute to this 
 
 Download [Git](http://git-scm.com/downloads) and install it. Then open up your Terminal and type in the following two commands to configure Git:
 
-    $ git config --global user.name "firstName lastName"
-
-    $ git config --global user.email your@emailaddress.com
+```
+$ git config --global user.name "firstName lastName"
+$ git config --global user.email your@emailaddress.com
+```
 
 ### Forking this project
 
@@ -50,20 +51,24 @@ Our graphic for Ruby is a SVG file, and you can find it in `images/ruby.svg`. If
  2. Locate the `<ul>`tag in `index.html`, at around line 32.
  3. Insert the following code snippet directly below the `<ul>` tag:
  
-    <li>
-          <img src="images/YOUR-RUBY.PNG">
-         <div class="meta">
-           <h1 class="name">YOUR-RUBYS-NAME</h1>
-           <a class="twitter" href="http://twitter.com/YOUR-TWITTER-HANDLE">@YOUR-TWITTER-HANDLE</a>
-         </div>
-    </li>
-  
+ ```
+<li>
+      <img src="images/YOUR-RUBY.PNG">
+     <div class="meta">
+       <h1 class="name">YOUR-RUBYS-NAME</h1>
+       <a class="twitter" href="http://twitter.com/YOUR-TWITTER-HANDLE">@YOUR-TWITTER-HANDLE</a>
+     </div>
+</li>
+ ```
+
  4. Save the file and check that the `index.html` file looks okay in your browser. 
  5. Go to your terminal, ensure you are in the rubys-threads directory and type the following commands
-	 
-    $ git add --all
-    $ git commit -m "Added YOUR-RUBYS-NAME"
-    $ git push origin gh-pages
+
+```
+$ git add --all
+$ git commit -m "Added YOUR-RUBYS-NAME"
+$ git push origin gh-pages
+```
 
 ## Merging your changes back to the main site
 
