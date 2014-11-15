@@ -1,3 +1,5 @@
+![](http://i.imgur.com/EjqIvTb.png)
+
 # Ruby's Threads
 
 **This is your chance to do something awesome with our mascot - Ruby.**
