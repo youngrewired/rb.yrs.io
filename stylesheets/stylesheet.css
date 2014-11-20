@@ -42,7 +42,7 @@ Header
 
 header {
   background: #E44F50;
-  padding: 25px;
+  padding: 25px 25px 25px 5px;
   position: fixed;
   display: block;
   width: 100%;
@@ -53,21 +53,15 @@ header a {
   color: white;
 }
 
-header img {
-  height: 50px;
-}
-
 header h1 {
   display: inline;
-  font-size: 2em;
+  font-size: 1em;
   position: absolute;
-  margin-top: 5px;
   margin-left: 1em;
 }
 
 header a.twitter {
   float:right;
-  margin-top: 1em;
 }
 
 
@@ -167,11 +161,6 @@ Adaptive Layout
     padding: 1em 0;
   }
 
-  header img {
-    margin: 0 auto;
-    display: block;
-  }
-
   header h1 {
     text-align: center;
     float: left;
@@ -179,7 +168,6 @@ Adaptive Layout
     display: block;
     position: relative;
     margin-left: 0;
-    margin-top: 1em;
     font-size: 1.25em;
   }
 
