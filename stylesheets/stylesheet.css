@@ -110,7 +110,6 @@ Threads
   list-style-type: none;
   margin-left: 5%;
   margin-bottom: 5%;
-  height: 342px;
 }
 
 #threads ul li:nth-child(3n + 1) {
