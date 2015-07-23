@@ -117,6 +117,7 @@ Threads
 }
 
 #threads ul li img {
+  height: 218px;
   width: 100%;
 }
 
@@ -191,6 +192,12 @@ Adaptive Layout
     margin-right: 0;
   }
 
+  #main #threads ul li img {
+    display: block;
+    height: auto;
+    width: 200px;
+    margin: 0 auto;
+  }
 }
 
 
