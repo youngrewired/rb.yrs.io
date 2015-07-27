@@ -22,7 +22,7 @@
    sodipodi:docname="pirate-ruby.svg"><metadata
      id="metadata45"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs43" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -32,12 +32,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="986"
+     inkscape:window-width="1237"
      inkscape:window-height="631"
      id="namedview41"
      showgrid="false"
      inkscape:zoom="0.69861929"
-     inkscape:cx="415.63743"
+     inkscape:cx="171.58462"
      inkscape:cy="419.08746"
      inkscape:window-x="114"
      inkscape:window-y="32"
@@ -82,7 +82,7 @@
          fill="#231F20"
          d="M430.312,374.509c-3.843-0.628-7.467,1.977-8.096,5.82c-0.733,4.485-5.223,4.961-6.581,5l0.004,0.229    c-0.003,0-0.005,0-0.007,0l0.003-0.229c-1.358-0.039-5.848-0.515-6.581-5c-0.628-3.843-4.253-6.448-8.095-5.82    c-3.843,0.629-6.448,4.253-5.82,8.095c2.173,13.282,14.283,16.812,20.383,16.824l0.001-0.236c0.071,0.002,0.142,0.011,0.214,0.011    c0.004,0,0.008,0,0.012,0v0.226c6.1-0.011,18.21-3.542,20.383-16.824C436.76,378.762,434.155,375.138,430.312,374.509z"
          id="path39" /></g></g><path
-     style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#1a1a1a;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 224.72899,341.72511 c 46.14798,215.53857 174.21738,176.35114 168.90458,-35.78487 z"
      id="path4184"
      inkscape:connector-curvature="0"
